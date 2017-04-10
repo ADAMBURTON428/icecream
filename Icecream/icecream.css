@@ -1,0 +1,50 @@
+.mintchocolate{
+  background-image: url("images/mintchocolate.jpg");
+  text-align:center;
+  font-size: 15px
+  border: 1px solid #000000
+  color #000000
+  }
+.cookiesandcream{
+  background-image: url("images/cookiesandcream.jpg");
+  text-align:center;
+  font-size: 15px
+  border: 1px solid #000000
+  color #000000
+  }
+.chocolate-fudge{
+  background-image: url("images/chocolate fudge.jpg");
+  text-align:center;
+  font-size: 15px
+  border: 1px solid #000000
+  color: #000000
+}
+.vanilla{
+  background-image: url("images/vanilla.jpg");
+  text-align:center;
+  font-size: 15px
+  border: 1px solid #000000
+  color #000000
+
+}
+.strawberry{
+  background-image:url("images/strawberry.jpg");
+  text-align:center;
+  font-size: 15px
+  border: 1px solid #000000
+  color #000000
+}
+td{
+vertical-align: center;
+font-size: 30px
+}
+.colors{
+  background-color: #0611F2;
+  vertical-align: center;
+  font-size: 30px;
+  color: white
+}
+.center{
+  text-align: center;
+  background-color: #0B8E05
+}
